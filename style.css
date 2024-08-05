@@ -1,5 +1,7 @@
-/*Milestone#3*/
 
+body {
+    background-color: #003049;
+}
 .container {
     display: flex;
     flex-wrap: wrap;
@@ -9,5 +11,19 @@
     height: 100px;
     display: flex;
     justify-content: center;
-
-}
+    align-items: center;
+    border: 1px solid #eae2b7;
+    margin: 5px;
+    font-size: 14px;
+    color: white;
+  }
+  .fizz {
+    background-color: #d62828;
+    
+  }
+  .buzz {
+    background-color:#f77f00;
+  }
+  .fizzbuzz {
+    background-color: #fcbf49;;
+  }

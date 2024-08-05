@@ -20,8 +20,8 @@ for(let i = 1; i <= 100; i++) {
 }*/
 
 
-//Milestone #2
-// Creo elementi da inserire nel contenitore con JS
+//Milestone #2/ Milestone #3
+// Creo elementi da inserire nel contenitore con JS / aggiungo elementi al contenitore /applico stili differenti agli elementi aggiunti al DOM 
 
 const container = document.getElementById('container');
 
