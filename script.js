@@ -1,3 +1,4 @@
 //MILESTONE #1
-//Preparazione: recupero l'elemento di interesse del Dom 
-const container =document.getElementById('container');
+//Preparazione: Verifica collegamento JS/Recupero l'elemento di interesse del Dom 
+console.log('JS OK')
+const container = document.getElementById('container');
